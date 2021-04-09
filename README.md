@@ -9,7 +9,8 @@ For my programming projects, I usually only upload to Github once I make signifi
 - 😀 I like to read, code and draw in my free time.
 - 💬 Ask me about anything, I am happy to help.
 - ⚡ Fun fact: My first line of code was not "Hello World!"
-<i>Follow me around the web:</i><br>
+
+#####<i>Follow me around the web:</i><br>
 <a href="https://www.linkedin.com/in/vishnu-n-v-4491a51b7/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/ig_carbonx/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://www.facebook.com/vishnu.n.v.169/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
