@@ -1,6 +1,6 @@
 <h2>Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="28px"></h2>
 
-I am Vishnu N V, Information Science student at [SCEM](https://www.sahyadri.edu.in/). Fascinated by everything that's CS related. I'm learning how to code. I love making and designing webpages. It's fun to code something that anyone on the web can easily see. I also enjoy programming in C++ and Python because they challenge me more. I love it when I can finally solve a difficult problem.
+I am Vishnu. Information Science student at [SCEM](https://www.sahyadri.edu.in/). Fascinated by everything that's CS related. I'm learning how to code. I love making and designing webpages. It's fun to code something that anyone on the web can easily see. I also enjoy programming in C++ and Python because they challenge me more. I love it when I can finally solve a difficult problem.
 
 For my programming projects, I usually only upload to Github once I make significant progress. Feel free to create a pull request to contribute to any of my repositories.
 
