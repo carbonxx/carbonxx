@@ -5,7 +5,7 @@ An Information Science student at [SCEM](https://www.sahyadri.edu.in/). Fascinat
 For my programming projects, I usually only upload to Github once I make significant progress. Feel free to create a pull request to contribute to any of my repositories.
 
 - 🌱 I’m currently learning HTML, CSS, Python, and C++.
-- 🔭 I’m currently working on Web scraping Facebook bot.
+- 🔭 I’m currently working on Real-Time Translation-Sign Language.
 - 😀 I like to read, code and draw in my free time.
 - 💬 Ask me about anything, I am happy to help.
 - ⚡ Fun fact: My first line of code was not "Hello World!"
