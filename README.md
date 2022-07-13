@@ -1,4 +1,4 @@
-<h2>Hey there! I'm Vishnu <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="28px"; width="5px"></h2>
+<h2>Hey there! I'm Vishnu <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="28px";"></h2>
 
 An Information Science student at [SCEM](https://www.sahyadri.edu.in/). Fascinated by everything that's CS related. I'm learning how to code. I love making and designing webpages. It's fun to code something that anyone on the web can easily see. I also enjoy programming in C++ and Python because they challenge me more. I love it when I can finally solve a difficult problem.
 
