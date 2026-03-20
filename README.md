@@ -28,36 +28,6 @@ Currently, I'm also working as a **Community Manager at Masai School**, running 
 
 ---
 
-## 🚀 Featured Projects
-
-### 🏪 [LLM Store](https://github.com/carbonxx)
-> *Python · LangChain · Streamlit · AWS Bedrock*
-
-A scalable multi-feature LLM app that bundles a **chatbot, text-to-SQL engine, document summarizer, and semantic search** into one clean interface — serving 50+ end users with a modular architecture designed for easy extensibility.
-
----
-
-### ⚡ [Snapshot Data Comparison](https://github.com/carbonxx)
-> *Python*
-
-Automated large-scale clinical dataset comparison pipeline. Reduced processing time by **98%** (12 hrs → 15 mins) with robust edge-case handling and multi-source reconciliation logic.
-
----
-
-### 🕷️ [eTMF Scraper](https://github.com/carbonxx)
-> *Python · Figma*
-
-Configurable Python scraper for dynamic eTMF record extraction, paired with a full interactive **Figma UI prototype** to map the user journey and guide front-end development.
-
----
-
-### 📚 [Code Library](https://github.com/carbonxx/Code-Library)
-> *C · C++*
-
-A curated collection of core programming language concepts — 11 stars, 24 forks, used by learners across the community.
-
----
-
 ## 🛠️ Tech Stack
 
 **Languages**
@@ -113,7 +83,7 @@ A curated collection of core programming language concepts — 11 stars, 24 fork
 
 I'm always open to interesting conversations — whether it's about AI products, developer communities, or a tricky engineering problem.
 
-**Email:** vishnunvnaik@gmail.com
+**Email:** vishnunvnaik@gmail.com  
 **LinkedIn:** [Vishnu N V](https://www.linkedin.com/in/vishnu-n-v-4491a51b7/)
 
 ---
